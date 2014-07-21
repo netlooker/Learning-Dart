@@ -3,7 +3,8 @@ Dart - learning notes
 Now I'm reading the Dart: Up and Running which you can get [here](https://www.dartlang.org/docs/dart-up-and-running/). It seems to be a good point of reference for a Dart beginners. I will create some code samples and notes during studies of that book.
 
 - [Dart - Important Concepts](https://www.dartlang.org/docs/dart-up-and-running/contents/ch02.html#ch02-concepts)
-- Code samples
+
+######Code samples - How the Dart code looks like
 ```
 /**
  * Function description
@@ -27,4 +28,4 @@ void main() {
 ```
 
 ### Creating the REST client - first approach
-
+To be continued ...

@@ -21,6 +21,7 @@ Dart - links and useful resources
 - [restful.dart](https://github.com/Mixbook/restful.dart)
 - [dart-couchdb-client](https://github.com/financeCoding/dart-couchdb-client)
 - [dartlang_json_webservice_article_code](https://github.com/chrisbu/dartlang_json_webservice_article_code)
+- [sfdc-dart](https://github.com/dajevu/sfdc-dart)
 
 ###Dart projects:
 - [Angular.DART](https://angulardart.org/)
