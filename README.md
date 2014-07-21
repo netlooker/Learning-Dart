@@ -16,16 +16,13 @@ After applaying this I was able to run Dart projects on my localhost.
 
 ### First steps in a new language
 1. I'm following instruction from this tutorial https://www.dartlang.org/codelabs/darrrt/
-2. Mine notes and impressions about Dart
+2. My notes and impressions about Dart
   - Dart looks similar to JAVA language
   - Dart uses CSS selcetors to get elements form the DOM
   - dart:core - main library which is automatically imported into every Dart app
   - **dart:html** - library which contains the classes for all DOM element types, in addition to functions for accessing the DOM
   - **dart:convert, dart:async, dart:math** - another useful libraries
   - you can import only stuff that you realy need in your project using the **"show"** keyword
-```
-import 'dart:math' show Random;
-```
 3. You can find more details about Dart libraries API here https://api.dartlang.org
 4. OOP rules in Dart
   - **static** defines a class-level field
